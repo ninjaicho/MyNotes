@@ -20,24 +20,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "65b9cd88404d7482",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ad424c09dc483343",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Day Planners/Day Planner-20230827.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -156,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",

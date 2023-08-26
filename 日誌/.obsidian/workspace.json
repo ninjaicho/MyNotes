@@ -136,14 +136,6 @@
               "type": "calendar",
               "state": {}
             }
-          },
-          {
-            "id": "eed4d4e5477af972",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
         ],
         "currentTab": 4

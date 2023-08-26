@@ -14,8 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "Day Planners/Day Planner-20230827.md",
-                "mode": "source",
-                "source": false
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -150,8 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 374.5,
-    "collapsed": true
+    "width": 374.5
   },
   "left-ribbon": {
     "hiddenItems": {

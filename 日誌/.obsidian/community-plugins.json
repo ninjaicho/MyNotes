@@ -12,5 +12,7 @@
   "url-into-selection",
   "obsidian-style-settings",
   "obsidian-tasks-plugin",
-  "text-snippets-obsidian"
+  "text-snippets-obsidian",
+  "obsidian-kanban",
+  "tag-wrangler"
 ]

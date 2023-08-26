@@ -139,6 +139,20 @@
           }
         ],
         "currentTab": 4
+      },
+      {
+        "id": "e552872a1d1b13c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "56765e9a94d1287e",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -156,7 +170,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "00ef56f311667add",
+  "active": "efd14673b7750337",
   "lastOpenFiles": [
     "Day Planners/Day Planner-20230827.md",
     "2023-08-27.md",

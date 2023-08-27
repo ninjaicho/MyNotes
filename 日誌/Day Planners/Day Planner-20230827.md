@@ -11,7 +11,7 @@ morning
       
 ## afternoon
 
-- [ ] 13:00 lunch
+- [x] 13:00 lunch
 - [ ] 14:00 sleep
 - [ ] 15:00 sleep
 - [ ] 16:00 

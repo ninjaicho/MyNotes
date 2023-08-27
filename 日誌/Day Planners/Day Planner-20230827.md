@@ -1,4 +1,30 @@
-mermaid
+```mermaid
+gantt
+    dateFormat  HH-mm
+    axisFormat %H:%M
+    %% Current Time: 下午3:59:02
+    section Tasks
+    sleep     :06-00, 60m
+    sleep     :07-00, 60m
+    sleep     :08-00, 60m
+    sleep     :09-00, 60m
+    sleep     :10-00, 60m
+    learn     :11-00, 60m
+    learn     :12-00, 60m
+    lunch     :13-00, 60m
+    sleep     :14-00, 60m
+    sleep     :15-00, 60m
+    work     :16-00, 60m
+    work     :17-00, 60m
+    work     :18-00, 60m
+    dinner     :19-00, 60m
+    work     :21-00, 60m
+    work     :22-00, 60m
+    work     :23-00, 60m
+    section Breaks
+    BREAK     :20-00, 60m
+    BREAK     :24-00, 0m
+```
 
 morning
  

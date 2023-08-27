@@ -6090,12 +6090,12 @@ class PlannerMermaid {
     }
     minuteInterval(item, next) {
         if (next === undefined) {
-            return ', 0mm';
+            return ', 0m';
         }
         const currentMoment = moment$2(item.time);
         const nextMoment = moment$2(next.time);
         const untilNext = Math.floor(moment$2.duration(nextMoment.diff(currentMoment)).asMinutes());
-        return ', ' + untilNext + 'mm';
+        return ', ' + untilNext + 'm';
     }
     escape(input) {
         mermmaidEscapedCharacters.forEach(mec => {

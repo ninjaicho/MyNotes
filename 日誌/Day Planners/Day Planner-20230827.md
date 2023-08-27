@@ -12,7 +12,7 @@ morning
 ## afternoon
 
 - [x] 13:00 lunch
-- [ ] 14:00 sleep
+- [x] 14:00 sleep
 - [ ] 15:00 sleep
 - [ ] 16:00 work
 - [ ] 17:00 work

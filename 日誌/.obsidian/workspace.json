@@ -11,9 +11,9 @@
             "id": "612733f47ccd89fc",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "kanban",
               "state": {
-                "file": "Excalidraw/Drawing 2023-08-27 10.05.04.excalidraw.md"
+                "file": "2023 08月看板.md"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-08-27 10.05.04.excalidraw.md",
+                "file": "2023 08月看板.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-08-27 10.05.04.excalidraw.md",
+                "file": "2023 08月看板.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-08-27 10.05.04.excalidraw.md"
+                "file": "2023 08月看板.md"
               }
             }
           },
@@ -170,14 +170,15 @@
   },
   "active": "612733f47ccd89fc",
   "lastOpenFiles": [
-    "進行中.md",
+    "2023 08月看板.md",
     "2023 8月看板.md",
-    "2023-08-26.md",
-    "2023-08-27.md",
     "2023-08-28.md",
+    "2023-08-27.md",
+    "2023-08-26.md",
+    "Excalidraw/Drawing 2023-08-27 10.05.04.excalidraw.md",
+    "進行中.md",
     "Untitled Kanban 1.md",
     "Day Planners/Day Planner-20230827.md",
-    "Excalidraw/Drawing 2023-08-27 10.05.04.excalidraw.md",
     "Excalidraw/Drawing 2023-08-27 10.05.26.excalidraw.md",
     "Excalidraw",
     "Day Planners"

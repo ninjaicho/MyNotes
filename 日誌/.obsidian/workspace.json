@@ -13,7 +13,7 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "Untitled Kanban.md"
+                "file": "2023 08月看板.md"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled Kanban.md",
+                "file": "2023 08月看板.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled Kanban.md",
+                "file": "2023 08月看板.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled Kanban.md"
+                "file": "2023 08月看板.md"
               }
             }
           },
@@ -170,8 +170,8 @@
   },
   "active": "87afeabeedbb2bda",
   "lastOpenFiles": [
-    "2023 08月看板.md",
     "Untitled Kanban.md",
+    "2023 08月看板.md",
     "學習Obsidian @{2023-08-27}.md",
     "2023 09月看板.md",
     "2023-08-26.md",

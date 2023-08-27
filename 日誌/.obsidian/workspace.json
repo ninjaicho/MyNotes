@@ -20,6 +20,24 @@
             }
           }
         ]
+      },
+      {
+        "id": "93499074d2e4d66a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b3f4eff0527006b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-08-26.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/Day Planner-20230827.md",
+                "file": "2023-08-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day Planners/Day Planner-20230827.md",
+                "file": "2023-08-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day Planners/Day Planner-20230827.md"
+                "file": "2023-08-26.md"
               }
             }
           },
@@ -172,12 +190,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d3748fb08a0ebf2a",
+  "active": "6b3f4eff0527006b",
   "lastOpenFiles": [
-    "Day Planners/Day Planner-20230827.md",
     "2023-08-27.md",
     "2023-08-28.md",
     "2023-08-26.md",
+    "Day Planners/Day Planner-20230827.md",
     "Excalidraw/Drawing 2023-08-27 10.05.04.excalidraw.md",
     "Excalidraw/Drawing 2023-08-27 10.05.26.excalidraw.md",
     "Excalidraw",

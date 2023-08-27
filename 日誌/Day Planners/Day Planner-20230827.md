@@ -2,7 +2,7 @@
 gantt
     dateFormat  HH-mm
     axisFormat %H:%M
-    %% Current Time: 下午7:55:02
+    %% Current Time: 下午8:00:02
     section Tasks
     sleep     :06-00, 60m
     sleep     :07-00, 60m
@@ -48,7 +48,7 @@ gantt
 ## evening
 
 - [x] 18:00 work
-- [ ] 19:00 dinner
+- [x] 19:00 dinner
 - [ ] 20:00 休息
 - [ ] 21:00 work
 - [ ] 22:00 work

@@ -2,7 +2,7 @@
 gantt
     dateFormat  HH-mm
     axisFormat %H:%M
-    %% Current Time: 下午4:04:15
+    %% Current Time: 下午4:09:20
     section Tasks
     sleep     :06-00, 60m
     sleep     :07-00, 60m
@@ -20,10 +20,10 @@ gantt
     dinner     :19-00, 60m
     work     :21-00, 60m
     work     :22-00, 60m
-    work     :23-00, 60m
+    work     :23-00, 30m
     section Breaks
     BREAK     :20-00, 60m
-    BREAK     :24-00, 0m
+    BREAK     :23-30, 0m
 ```
 
 morning
@@ -52,4 +52,4 @@ morning
 - [ ] 21:00 work
 - [ ] 22:00 work
 - [ ] 23:00 work
-- [ ] 24:00 BREAK
+- [ ] 23:30 BREAK

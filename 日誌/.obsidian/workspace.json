@@ -139,6 +139,20 @@
           }
         ],
         "currentTab": 3
+      },
+      {
+        "id": "d04cfe5f193c293e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b0e82d95cdf2af4d",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -152,7 +166,8 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "7623020f28b01c1f",

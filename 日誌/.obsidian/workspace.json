@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ded0b41f0b1a9fc0",
+        "id": "4951e67b67565928",
         "type": "tabs",
         "children": [
           {
-            "id": "0a1e334604ab1bd5",
+            "id": "46695e8c0b76e3d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -172,10 +172,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0a1e334604ab1bd5",
+  "active": "46695e8c0b76e3d4",
   "lastOpenFiles": [
-    "2023-08-27.md",
     "Day Planners/Day Planner-20230827.md",
+    "2023-08-27.md",
     "2023-08-28.md",
     "2023-08-26.md",
     "Excalidraw/Drawing 2023-08-27 10.05.04.excalidraw.md",

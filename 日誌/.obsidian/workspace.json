@@ -13,7 +13,7 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "2023 08月看板.md"
+                "file": "Untitled Kanban.md"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023 08月看板.md",
+                "file": "Untitled Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023 08月看板.md",
+                "file": "Untitled Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023 08月看板.md"
+                "file": "Untitled Kanban.md"
               }
             }
           },
@@ -168,10 +168,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7623020f28b01c1f",
+  "active": "87afeabeedbb2bda",
   "lastOpenFiles": [
-    "學習Obsidian @{2023-08-27}.md",
     "2023 08月看板.md",
+    "Untitled Kanban.md",
+    "學習Obsidian @{2023-08-27}.md",
     "2023 09月看板.md",
     "2023-08-26.md",
     "2023-08-28.md",

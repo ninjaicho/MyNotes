@@ -7,7 +7,7 @@ morning
 - [x] 09:00 sleep
 - [x] 10:00 sleep
 - [x] 11:00 learn
-- [ ] 12:00 learn
+- [x] 12:00 learn
       
 ## afternoon
 
